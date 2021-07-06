@@ -2,6 +2,24 @@ body {
   font-family: "Montserrat", sans-serif;
   margin: 0;
 }
+.search-box {
+  height: 50%;
+  margin-top: 50px;
+  margin-left: 80px;
+  background-color: rgb(193, 172, 207);
+  width: 32.60%;
+  border-radius: 8px;
+  color:white;
+  padding: 5px;
+}
+button{
+  background-image: linear-gradient(rgb(224, 235, 69) , rgb(202, 144, 96));
+  padding: 5px;
+  border-radius: 8px;
+  border: 1px solid white;
+  margin-left: 20px;
+  color:white
+}
 
 .orange-color {
   color: orange;
