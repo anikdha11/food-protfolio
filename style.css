@@ -7,18 +7,18 @@ body {
   margin-top: 50px;
   margin-left: 80px;
   background-color: rgb(193, 172, 207);
-  width: 32.60%;
+  width: 32.6%;
   border-radius: 8px;
-  color:white;
+  color: white;
   padding: 5px;
 }
-button{
-  background-image: linear-gradient(rgb(224, 235, 69) , rgb(202, 144, 96));
+button {
+  background-image: linear-gradient(rgb(224, 235, 69), rgb(202, 144, 96));
   padding: 5px;
   border-radius: 8px;
   border: 1px solid white;
   margin-left: 20px;
-  color:white
+  color: white;
 }
 
 .orange-color {
@@ -26,7 +26,7 @@ button{
 }
 h1 {
   font-size: 43px;
-  color: rgb(91, 83, 92);
+  color: rgb(83, 41, 41);
 }
 .fexiable-container {
   display: flex;
@@ -64,12 +64,31 @@ h1 {
   width: 40%;
   padding: 30px;
   margin: 40px;
-  box-shadow: 10px 10px 8px 10px rgb(177, 171, 171);
+  box-shadow: 10px 10px 8px 10px rgb(241, 238, 238);
   border-radius: 25px;
   text-align: center;
 }
 .img-width img {
   width: 80%;
+}
+
+.section-box {
+  margin-top: 50px;
+  display: flex;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 12%;
+  box-shadow: 10px 8px 20px 30px rgb(240, 236, 240);
+  width: 70%;
+  height: 50%;
+  border-radius: 20px;
+}
+.distance {
+  padding: 8%;
+}
+h2 {
+  font-size: 40px;
+  font-weight: 900;
 }
 .footer {
   background-color: rgb(22, 21, 21);
